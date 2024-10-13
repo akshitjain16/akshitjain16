@@ -1,4 +1,4 @@
-<h3 align="center">Heyy there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer 👨🏻‍💻 from Jodhpur, India who loves to create for the web 🌐.</h3>
+<h3 align="center">Heyy there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer, who loves to create for the web 🌐.</h3>
 
 <p align="Center"><img align="center" width="700" src="https://demotix.com/wp-content/uploads/2019/06/How-to-Hire-Web-Developer.gif"></p>
 
