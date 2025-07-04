@@ -71,12 +71,9 @@
 ![LangGraph](https://img.shields.io/badge/-LangGraph-FFA500?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![ReAct](https://img.shields.io/badge/-ReAct-0096FF?style=flat-square)
-![AutoGen](https://img.shields.io/badge/-AutoGen-FF6347?style=flat-square)
-![Toolformer](https://img.shields.io/badge/-Toolformer-708090?style=flat-square)
 
 ## 🤔 Stuff Exploring
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
